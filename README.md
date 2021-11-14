@@ -1,2 +1,2 @@
-# Photo-Gallery
-This is a simple photo gallery website containing multiple photos aligned in proper and attractive manner .
+# projects
+This is a photogrid project containing a bunch of images in a well organized and attractive manner by proper use of Css.
